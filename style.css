@@ -7,6 +7,10 @@ header {
   margin-bottom: 30px;
 }
 
+header nav  ul{
+  text-align: center;
+}
+
 header img {
   float: left;
   margin-top: 10px;
@@ -19,7 +23,7 @@ header nav ul li {
   display: inline-block;
   height: 90px;
   line-height: 90px;
-  margin-left: 90px;
+  margin-left: 50px;
 }
 
 section:first-child img {
